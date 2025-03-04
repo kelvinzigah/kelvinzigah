@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kelvin
+Hi! My name is Kelvin! I am an electrical engineering undergrad with an interest in buidling cool stuff. Check out some of my projects =)
 
 
 <!--
